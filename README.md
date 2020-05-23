@@ -37,7 +37,7 @@
 
 <br />
 
-5. copy **.eslintrc** file to main folder
+5. Copy **.eslintrc** file to main folder
 
 <br />
 
@@ -62,7 +62,7 @@
 
 <br />
 
-4. copy **.prettierrc** file to main folder
+4. Copy **.prettierrc** file to main folder
 
 <br />
 
@@ -107,5 +107,15 @@
     }
   }
 ```
+
+
+---
+## **Absolute Imports**
+
+1. Copy **jsconfig.json** file to main folder
+
+<br />
+
+---
 
 &copy;Tomasz Kowalczyk
